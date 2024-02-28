@@ -1,13 +1,3 @@
-/*
- * Copyright (C) Rida Bazzi, 2019
- *
- * Do not share this file with anyone
- */
-/* 
-Name: Daois Sanchez Mora
-ID  : 1221797369
-Sun Feb 11 23:49:52 MST 2024
-*/
 #ifndef __PARSER_H__
 #define __PARSER_H__
 
