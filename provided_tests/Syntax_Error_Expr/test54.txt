@@ -1,0 +1,2 @@
+txSt ((_)*), txSq txS1 ((a)|(b)).(b) #
+" ab bb "
